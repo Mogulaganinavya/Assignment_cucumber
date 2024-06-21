@@ -1,0 +1,14 @@
+<suite name="cucumber test framework">
+<test name= "Admin login test">
+<classes>
+<class name="testrunners.AdminLoginTest">
+</class>
+</classes>
+</test>
+<test name="Employee Registration test">
+<classes>
+<class name= "testrunners.EmployeeLoginTest">
+</class>
+</classes>
+</test>
+</suite>
